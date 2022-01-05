@@ -2,7 +2,8 @@
 Converts OG xbox isos from redump format to xiso format and vice versa.  
 
 ## Usage  
-The input format is determined automatically and does not need to be specified.  
+The input format is determined automatically and does not need to be specified.
+
 **redump -> xiso**
 ```
 redump2xiso.exe <.iso file>
