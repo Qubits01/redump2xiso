@@ -10,7 +10,7 @@ If you want to create a file of the video partition (needed to convert back to r
 ```
 redump2xiso.exe <.iso file> <video partition file>
 ```
-**xiso -> redump**
+**xiso -> redump**  
 You have to explicitly enter the input xiso file and the video partition file.
 ```
 redump2xiso.exe <.iso file> <video partition file>
