@@ -2,7 +2,7 @@
 using System;
 using System.IO;
 
-class Xbox2redump
+class Redump2xiso
 {
     static void Main(string[] args)
     {
